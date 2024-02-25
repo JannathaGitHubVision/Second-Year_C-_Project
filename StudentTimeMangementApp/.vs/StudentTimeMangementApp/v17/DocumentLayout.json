@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vicky\\source\\repos\\Second-Year_C-_Project\\StudentTimeMangementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F42FF1BD-E7C9-4292-A1FE-4F122722A7E6}|StudentTimeMangementApp\\StudentTimeMangementApp.csproj|c:\\users\\vicky\\source\\repos\\second-year_c-_project\\studenttimemangementapp\\studenttimemangementapp\\models\\displayvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42FF1BD-E7C9-4292-A1FE-4F122722A7E6}|StudentTimeMangementApp\\StudentTimeMangementApp.csproj|solutionrelative:studenttimemangementapp\\models\\displayvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42FF1BD-E7C9-4292-A1FE-4F122722A7E6}|StudentTimeMangementApp\\StudentTimeMangementApp.csproj|c:\\users\\vicky\\source\\repos\\second-year_c-_project\\studenttimemangementapp\\studenttimemangementapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42FF1BD-E7C9-4292-A1FE-4F122722A7E6}|StudentTimeMangementApp\\StudentTimeMangementApp.csproj|solutionrelative:studenttimemangementapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42FF1BD-E7C9-4292-A1FE-4F122722A7E6}|StudentTimeMangementApp\\StudentTimeMangementApp.csproj|c:\\users\\vicky\\source\\repos\\second-year_c-_project\\studenttimemangementapp\\studenttimemangementapp\\pages\\display\\modulestempinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F42FF1BD-E7C9-4292-A1FE-4F122722A7E6}|StudentTimeMangementApp\\StudentTimeMangementApp.csproj|solutionrelative:studenttimemangementapp\\pages\\display\\modulestempinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F42FF1BD-E7C9-4292-A1FE-4F122722A7E6}|StudentTimeMangementApp\\StudentTimeMangementApp.csproj|c:\\users\\vicky\\source\\repos\\second-year_c-_project\\studenttimemangementapp\\studenttimemangementapp\\pages\\display\\modulestempinfo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42FF1BD-E7C9-4292-A1FE-4F122722A7E6}|StudentTimeMangementApp\\StudentTimeMangementApp.csproj|solutionrelative:studenttimemangementapp\\pages\\display\\modulestempinfo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModulesTempInfo.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\vicky\\source\\repos\\Second-Year_C-_Project\\StudentTimeMangementApp\\StudentTimeMangementApp\\Pages\\Display\\ModulesTempInfo.cshtml.cs",
+              "RelativeDocumentMoniker": "StudentTimeMangementApp\\Pages\\Display\\ModulesTempInfo.cshtml.cs",
+              "ToolTip": "C:\\Users\\vicky\\source\\repos\\Second-Year_C-_Project\\StudentTimeMangementApp\\StudentTimeMangementApp\\Pages\\Display\\ModulesTempInfo.cshtml.cs",
+              "RelativeToolTip": "StudentTimeMangementApp\\Pages\\Display\\ModulesTempInfo.cshtml.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T07:18:30.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModulesTempInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\vicky\\source\\repos\\Second-Year_C-_Project\\StudentTimeMangementApp\\StudentTimeMangementApp\\Pages\\Display\\ModulesTempInfo.cshtml",
+              "RelativeDocumentMoniker": "StudentTimeMangementApp\\Pages\\Display\\ModulesTempInfo.cshtml",
+              "ToolTip": "C:\\Users\\vicky\\source\\repos\\Second-Year_C-_Project\\StudentTimeMangementApp\\StudentTimeMangementApp\\Pages\\Display\\ModulesTempInfo.cshtml",
+              "RelativeToolTip": "StudentTimeMangementApp\\Pages\\Display\\ModulesTempInfo.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAFMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T07:18:31.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vicky\\source\\repos\\Second-Year_C-_Project\\StudentTimeMangementApp\\StudentTimeMangementApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentTimeMangementApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vicky\\source\\repos\\Second-Year_C-_Project\\StudentTimeMangementApp\\StudentTimeMangementApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentTimeMangementApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-25T07:18:31.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisplayValues.cs",
+              "DocumentMoniker": "C:\\Users\\vicky\\source\\repos\\Second-Year_C-_Project\\StudentTimeMangementApp\\StudentTimeMangementApp\\Models\\DisplayValues.cs",
+              "RelativeDocumentMoniker": "StudentTimeMangementApp\\Models\\DisplayValues.cs",
+              "ToolTip": "C:\\Users\\vicky\\source\\repos\\Second-Year_C-_Project\\StudentTimeMangementApp\\StudentTimeMangementApp\\Models\\DisplayValues.cs",
+              "RelativeToolTip": "StudentTimeMangementApp\\Models\\DisplayValues.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T07:18:31.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
